@@ -29,6 +29,10 @@ Tested using Litmus to send test emails in Gmail and Outlook email clients.
 - This project improved my documentation reading skills.
 - This project improved my development skills in HTML5 and my understanding of CSS responsiveness to create email templates.
 
+</details>
+
+<details>
+ 
 <summary><b>Crossrope Email</b></summary>
 # Crossrope Email Clone
 
